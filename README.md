@@ -11,8 +11,7 @@ Steps to Start Application and Run PostMan Test
 	
 Note: I have attached PostMan REST API calls output as Screenshots in the repository
 
-To check Swagger API documentation -> Go to application.properties file(src/main/resources) 
-in the SpringBoot project and uncomment the following line: server.servlet.context-path=/api -> To enable servlet context path for swagger API
+To check Swagger API documentation -> goto http://localhost:8080/swagger-ui.html
 
 
  
